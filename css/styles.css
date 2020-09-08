@@ -10328,6 +10328,10 @@ header.landschaft h1, header.schwarzweiss h1, header.nacht h1 {
     border-top: 1px solid rgba(33,37,41,0.4);
 }
 
+.sub-item{
+    padding-left: 10px;
+}
+
 /*divider in text*/
 hr.divider.dark{
     border-color: #aaa;
